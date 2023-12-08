@@ -13,8 +13,8 @@
   </a>&nbsp;&nbsp; 
 </p>                                                                                            
                                                                    
-- 🔭 I’m currently working on improving my skills in FrontEnd<br>
-- 🤔 In 2023 I hope to improve my knowledge about compiled languages like React, Svelte or Kotlin<br>
+- 🔭 I’m currently working on improving my skills in Front & Backend<br>
+- 🤔 In 2024, I hope to improve my knowledge about compiled languages like React, Svelte or Gemini (The new AI of Google)<br>
 - 💬 Ask me about music, video games and basketball 😊🎵🎮🏀<br>
 - 📫 How to reach me: [mario.ortega.pal@gmail.com📧](mailto:mario.ortega.pal@gmail.com)<br>
 
