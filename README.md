@@ -7,23 +7,21 @@
 <p align='start'>
   <a href="https://www.linkedin.com/in/mario-ortega-palacios-760638182/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://github.com/maopadev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp; 
+  </a>
 </p>                                                                                            
                                                                    
 - 🔭 I’m currently working on improving my skills in Front & Backend<br>
-- 🤔 In 2024, I hope to improve my knowledge about compiled languages like React, Svelte or Gemini (The new AI of Google)<br>
+- 🤔 In 2024, I hope to improve my knowledge about compiled languages like React, Node or Svelte<br>
 - 💬 Ask me about music, video games and basketball 😊🎵🎮🏀<br>
 - 📫 How to reach me: [mario.ortega.pal@gmail.com📧](mailto:mario.ortega.pal@gmail.com)<br>
 
 <details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maopadev&layout=compact&hide=html&theme=transparent)
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=maopadev&count_private=true&show_icons=true&theme=transparent)
-
+    <summary>⚡️ More about my coding life</summary>
+    <br />
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maopadev&layout=compact&hide=html&theme=transparent)
+    ![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=maopadev&count_private=true&show_icons=true&theme=transparent)
 </details>
