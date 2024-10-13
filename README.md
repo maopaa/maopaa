@@ -21,4 +21,8 @@
 <details>
     <summary>⚡️ More about my coding life</summary>
     <br />
+    <div align="start">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopaa&langs_count=10&theme=tokyonight&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api?username=maopaa&show_icons=true&theme=synthwave" />
+    </div>
 </details>
